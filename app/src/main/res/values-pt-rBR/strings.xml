@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="cd_roll_button">Jogar</string>
+    <string name="cd_toast_main">Dado Jogado!</string>
+</resources>
